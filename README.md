@@ -3,7 +3,7 @@ JWT Authentication using Nginx Javascript (NJS)
 
 ## Description
 
-This NJS module allows you to authenticate requests to Nginx based on a Json Web Token. Supported JWT encryption algorithms are: HS 256, HS384, HS512, RS256, RS 384, RS 512, ES 256, ES 384, ES512.
+This NJS module allows you to authenticate requests to Nginx based on a Json Web Token. Supported JWT encryption algorithms are: HS256, HS384, HS512, RS256, RS384, RS512, ES256, ES384, ES512.
 
 
 ## Nginx configuration example
